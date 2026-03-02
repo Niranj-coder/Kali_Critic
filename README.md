@@ -2,9 +2,9 @@
 A tool which helps to find what's wrong with the output if a kali tool is used
 
 ### Tools supported (as of now)
-nmap<br>
-sqlmap<br>
-metasploit
+1.nmap<br>
+2.sqlmap<br>
+3.metasploit
 
 ### How to use 
 Just run : python kcritic.py
