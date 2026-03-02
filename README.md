@@ -13,7 +13,7 @@ A tool which helps find what's wrong with the output if a Kali tool is used.
 Just run:  
 `python kcritic.py`
 
-Paste your tool output + Ctrl+D (or Ctrl+Z + Enter on Windows).
+Paste your tool output + Ctrl+D 
 
 ### NOTE
 
